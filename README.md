@@ -8,12 +8,11 @@ This project is a **House Price Prediction Model** built using **Linear Regressi
 ## Dataset
 The dataset used for this project contains various attributes affecting house prices, including:
 - **House Size (sq ft)**
-- **Number of Bedrooms**
-- **Number of Bathrooms**
-- **Lot Size**
-- **Neighborhood Rating**
-- **Year Built**
-- **Proximity to Schools and Hospitals**
+- **Number of Rooms**
+- **Number of Conveniences**
+- **Location**
+- **Building Age**
+- **Proximity to Center**
 - **Price** (Target Variable)
 
 
@@ -92,6 +91,7 @@ This project successfully demonstrates how **Linear Regression** can be used to 
 For any queries or collaborations, feel free to connect:
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/olu-samuel-89246b22a/)
+- **Interact with the Streamlit Web App Here**:  [PrimeNest Housing Price Prediction]
 
 ---
 
