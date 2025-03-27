@@ -91,7 +91,7 @@ This project successfully demonstrates how **Linear Regression** can be used to 
 For any queries or collaborations, feel free to connect:
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/olu-samuel-89246b22a/)
-- **Interact with the Streamlit Web App Here**:  [PrimeNest Housing Price Prediction](http://localhost:8501/)
+- **Interact with the Streamlit Web App Here**:  [PrimeNest Housing Price Prediction](http://192.168.8.200:8501)
 
 ---
 
