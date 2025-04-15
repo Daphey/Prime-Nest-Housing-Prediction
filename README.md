@@ -79,8 +79,8 @@ The model achieved **100% accuracy**, meaning it perfectly predicts house prices
    ```
 
 ## Live Demo
-![Price Prediction App Screenshot1](https://your-image-link.com/image.png)
-![Price Prediction App Screenshot2](https://your-image-link.com/image.png)
+![PrimeNest Prediction App Screenshot1](https://github.com/Daphey/Prime-Nest-Housing-Prediction/blob/main/Screenshot%20(29).png)
+![PrimeNest Prediction App Screenshot2](https://github.com/Daphey/Prime-Nest-Housing-Prediction/blob/main/Screenshot%20(30).png)
 
 
 ## Future Improvements
@@ -94,7 +94,7 @@ This project successfully demonstrates how **Linear Regression** can be used to 
 
 ## Contact
 For any queries or collaborations, feel free to connect:
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**: [Your GitHub Profile](https://github.com/Daphey)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/olu-samuel-89246b22a/)
 - **Interact with the Streamlit Web App Here**:  [PrimeNest Housing Price Prediction](https://prime-nest-housing-prediction-nbgaqv9lndyqs9brgsfk3m.streamlit.app/)
 
