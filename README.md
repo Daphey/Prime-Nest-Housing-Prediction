@@ -78,6 +78,11 @@ The model achieved **100% accuracy**, meaning it perfectly predicts house prices
    python house_price_prediction.py
    ```
 
+## Live Demo
+![Price Prediction App Screenshot1](https://your-image-link.com/image.png)
+![Price Prediction App Screenshot2](https://your-image-link.com/image.png)
+
+
 ## Future Improvements
 - **Collect and Use a Larger Dataset** to validate the model on real-world data.
 - **Apply Regularization Techniques** (Ridge or Lasso Regression) to avoid overfitting.
@@ -91,7 +96,7 @@ This project successfully demonstrates how **Linear Regression** can be used to 
 For any queries or collaborations, feel free to connect:
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/olu-samuel-89246b22a/)
-- **Interact with the Streamlit Web App Here**:  [PrimeNest Housing Price Prediction](http://192.168.8.200:8501)
+- **Interact with the Streamlit Web App Here**:  [PrimeNest Housing Price Prediction](https://prime-nest-housing-prediction-nbgaqv9lndyqs9brgsfk3m.streamlit.app/)
 
 ---
 
